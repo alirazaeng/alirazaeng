@@ -105,7 +105,9 @@ Production-focused WooCommerce performance patterns, diagnostics and documentati
 
 **Stack:** PHP · JavaScript · CSS · WordPress · WooCommerce · GitHub Actions
 
-[View repository →](https://github.com/alirazaeng/woocommerce-performance-toolkit)
+**Measured performance case study:** GTmetrix Grade **C → A**, Performance **59% → 87%**, and LCP **5.7s → 1.5s** under matched test conditions. The case study also reports regressions rather than hiding them.
+
+[View repository →](https://github.com/alirazaeng/woocommerce-performance-toolkit) · [Read measured case study →](https://github.com/alirazaeng/woocommerce-performance-toolkit/blob/main/case-studies/measured-wordpress-performance.md)
 
 ---
 
