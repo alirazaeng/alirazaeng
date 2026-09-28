@@ -109,6 +109,28 @@ Production-focused WooCommerce performance patterns, diagnostics and documentati
 
 [View repository →](https://github.com/alirazaeng/woocommerce-performance-toolkit) · [Read measured case study →](https://github.com/alirazaeng/woocommerce-performance-toolkit/blob/main/case-studies/measured-wordpress-performance.md)
 
+### [WordPress GSAP Components](https://github.com/alirazaeng/wordpress-gsap-components)
+
+[![Code Quality](https://github.com/alirazaeng/wordpress-gsap-components/actions/workflows/quality.yml/badge.svg)](https://github.com/alirazaeng/wordpress-gsap-components/actions/workflows/quality.yml)
+
+Reusable, performance-conscious animation components for modern WordPress frontends using GSAP and ScrollTrigger.
+
+**What it demonstrates:**
+
+- Reveal-on-scroll and staggered animation systems
+- Accessible text-reveal patterns
+- Magnetic CTA interactions
+- Scroll progress and pinned sections
+- Horizontal-scroll storytelling components
+- `prefers-reduced-motion` support
+- WordPress conditional asset loading
+- esbuild production bundling
+- Automated JavaScript and PHP validation
+
+**Stack:** JavaScript · GSAP · ScrollTrigger · WordPress · PHP · CSS · GitHub Actions
+
+[View repository →](https://github.com/alirazaeng/wordpress-gsap-components)
+
 ---
 
 ## 🌐 Professional Profiles
