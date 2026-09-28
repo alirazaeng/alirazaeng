@@ -105,9 +105,12 @@ Production-focused WooCommerce performance patterns, diagnostics and documentati
 
 **Stack:** PHP · JavaScript · CSS · WordPress · WooCommerce · GitHub Actions
 
-**Measured performance case study:** GTmetrix Grade **C → A**, Performance **59% → 87%**, and LCP **5.7s → 1.5s** under matched test conditions. The case study also reports regressions rather than hiding them.
+**Measured performance proof:**
 
-[View repository →](https://github.com/alirazaeng/woocommerce-performance-toolkit) · [Read measured case study →](https://github.com/alirazaeng/woocommerce-performance-toolkit/blob/main/case-studies/measured-wordpress-performance.md)
+- **Ali Raza Solutions:** GTmetrix **E → A**, Performance **33% → 92%**, LCP **7.6s → 1.3s**, TBT **543ms → 25ms**
+- **AHF Collection:** GTmetrix **D → B**, Performance **55% → 82%**, LCP **7.9s → 2.0s** — documented WooCommerce improvement with a hostname comparison caveat
+
+[View repository →](https://github.com/alirazaeng/woocommerce-performance-toolkit) · [Ali Raza Solutions case study →](https://github.com/alirazaeng/woocommerce-performance-toolkit/blob/main/case-studies/ali-raza-solutions-performance.md) · [AHF Collection case study →](https://github.com/alirazaeng/woocommerce-performance-toolkit/blob/main/case-studies/ahf-collection-performance.md)
 
 ### [WordPress GSAP Components](https://github.com/alirazaeng/wordpress-gsap-components)
 
