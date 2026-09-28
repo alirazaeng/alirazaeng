@@ -131,6 +131,28 @@ Reusable, performance-conscious animation components for modern WordPress fronte
 
 [View repository →](https://github.com/alirazaeng/wordpress-gsap-components)
 
+### [WooCommerce Customizations](https://github.com/alirazaeng/woocommerce-customizations)
+
+[![WooCommerce Code Quality](https://github.com/alirazaeng/woocommerce-customizations/actions/workflows/quality.yml/badge.svg)](https://github.com/alirazaeng/woocommerce-customizations/actions/workflows/quality.yml)
+
+Production-oriented WooCommerce customization patterns for products, cart, classic checkout, customer accounts, orders, and safe extension-aware development.
+
+**What it demonstrates:**
+
+- Modular WooCommerce plugin architecture
+- Product and cart hooks
+- Classic checkout field lifecycle
+- Sanitization, validation, and order metadata persistence
+- HPOS-aware WooCommerce CRUD usage
+- My Account endpoint integration
+- Conditional frontend asset loading
+- WordPress Coding Standards and automated CI
+- Security, compatibility, and regression-testing discipline
+
+**Stack:** PHP · WordPress · WooCommerce · HPOS · GitHub Actions
+
+[View repository →](https://github.com/alirazaeng/woocommerce-customizations)
+
 ---
 
 ## 🌐 Professional Profiles
