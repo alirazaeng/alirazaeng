@@ -68,7 +68,7 @@ Performance auditing and optimization covering:
 - LCP / CLS / INP
 - Asset optimization
 - Caching
-- Database cleanup
+- Database diagnostics
 - JavaScript and CSS optimization
 - WooCommerce performance
 
@@ -83,25 +83,29 @@ Responsive interfaces and animation systems using JavaScript and GSAP.
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Open-Source Work
 
-### WooCommerce Performance Toolkit
-Reusable examples and techniques for improving WooCommerce performance.
+### [WooCommerce Performance Toolkit](https://github.com/alirazaeng/woocommerce-performance-toolkit)
 
-### WordPress GSAP Components
-Reusable animation and interaction patterns for WordPress frontends.
+[![Code Quality](https://github.com/alirazaeng/woocommerce-performance-toolkit/actions/workflows/quality.yml/badge.svg)](https://github.com/alirazaeng/woocommerce-performance-toolkit/actions/workflows/quality.yml)
 
-### WooCommerce Customizations
-Production-oriented WooCommerce snippets, hooks and UI customizations.
+Production-focused WooCommerce performance patterns, diagnostics and documentation built around safe optimization rather than generic copy-paste snippets.
 
-### WordPress Technical SEO Toolkit
-Developer-focused SEO utilities for schema, metadata, redirects and indexing.
+**What it demonstrates:**
 
-### WordPress Security Hardening
-Practical WordPress security configuration and hardening examples.
+- Core Web Vitals diagnosis for LCP, INP and CLS
+- WooCommerce-aware caching strategy
+- Conditional asset loading
+- Frontend performance patterns
+- Database and autoload diagnostics
+- Layout-stability techniques
+- Cart and checkout regression testing
+- WordPress Coding Standards with automated GitHub Actions checks
+- Structured troubleshooting and case-study documentation
 
-### Agency Frontend Components
-Reusable frontend components from modern agency-style websites.
+**Stack:** PHP · JavaScript · CSS · WordPress · WooCommerce · GitHub Actions
+
+[View repository →](https://github.com/alirazaeng/woocommerce-performance-toolkit)
 
 ---
 
