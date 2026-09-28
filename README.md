@@ -153,6 +153,28 @@ Production-oriented WooCommerce customization patterns for products, cart, class
 
 [View repository →](https://github.com/alirazaeng/woocommerce-customizations)
 
+### [WordPress Technical SEO Toolkit](https://github.com/alirazaeng/wordpress-technical-seo-toolkit)
+
+[![Technical SEO Code Quality](https://github.com/alirazaeng/wordpress-technical-seo-toolkit/actions/workflows/quality.yml/badge.svg)](https://github.com/alirazaeng/wordpress-technical-seo-toolkit/actions/workflows/quality.yml)
+
+Production-focused WordPress technical SEO patterns for indexation, canonicals, metadata, structured data, redirects, taxonomies, image SEO, and sitemap consistency.
+
+**What it demonstrates:**
+
+- WordPress `wp_robots` integration
+- Canonical URL strategy
+- Duplicate metadata safeguards
+- Structured data patterns
+- Rank Math / Yoast / AIOSEO / SEOPress compatibility awareness
+- Redirect and taxonomy strategy
+- Image SEO and XML sitemap guidance
+- Technical SEO regression testing
+- WordPress Coding Standards and automated CI
+
+**Stack:** PHP · WordPress · Technical SEO · Structured Data · GitHub Actions
+
+[View repository →](https://github.com/alirazaeng/wordpress-technical-seo-toolkit)
+
 ---
 
 ## 🌐 Professional Profiles
