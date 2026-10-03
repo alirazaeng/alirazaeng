@@ -24,10 +24,10 @@
 | --- | --- | --- |
 | **[WooCommerce Performance Toolkit](https://github.com/alirazaeng/woocommerce-performance-toolkit)** | Core Web Vitals, WooCommerce-safe caching, asset delivery, database diagnostics, regression testing | [v1.0.0](https://github.com/alirazaeng/woocommerce-performance-toolkit/releases/tag/v1.0.0) · real before/after case studies |
 | **[WordPress GSAP Components](https://github.com/alirazaeng/wordpress-gsap-components)** | Reusable GSAP/ScrollTrigger components, reduced-motion support, cleanup patterns, conditional loading | [v1.0.0](https://github.com/alirazaeng/wordpress-gsap-components/releases/tag/v1.0.0) · [Live Demo](https://alirazaeng.github.io/wordpress-gsap-components/) |
-| **[WooCommerce Customizations](https://github.com/alirazaeng/woocommerce-customizations)** | Product, cart, classic checkout, account and order customizations using supported WooCommerce APIs | [v1.0.0](https://github.com/alirazaeng/woocommerce-customizations/releases/tag/v1.0.0) · installable plugin ZIP |
-| **[WordPress Technical SEO Toolkit](https://github.com/alirazaeng/wordpress-technical-seo-toolkit)** | Robots, canonicals, metadata, structured data, redirects, taxonomy and sitemap strategy | [v1.0.0](https://github.com/alirazaeng/wordpress-technical-seo-toolkit/releases/tag/v1.0.0) · installable plugin ZIP |
+| **[WooCommerce Customizations](https://github.com/alirazaeng/woocommerce-customizations)** | Product, cart, classic checkout, account and order customizations using supported WooCommerce APIs | [v1.0.0](https://github.com/alirazaeng/woocommerce-customizations/releases/tag/v1.0.0) · installable plugin ZIP · WordPress + WooCommerce runtime CI |
+| **[WordPress Technical SEO Toolkit](https://github.com/alirazaeng/wordpress-technical-seo-toolkit)** | Robots, canonicals, metadata, structured data, redirects, taxonomy and sitemap strategy | [v1.0.0](https://github.com/alirazaeng/wordpress-technical-seo-toolkit/releases/tag/v1.0.0) · installable plugin ZIP · WordPress runtime SEO CI |
 
-All four flagship repositories use automated quality checks, Dependabot maintenance, versioned releases, and protected `main` branches.
+All four flagship repositories use automated quality checks, Dependabot maintenance, versioned releases, and protected `main` branches. The WooCommerce Customizations and Technical SEO projects also boot disposable WordPress environments in CI for runtime validation.
 
 ---
 
