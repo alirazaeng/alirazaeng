@@ -53,9 +53,10 @@ A WordPress agency site optimized without stripping away its visual identity or 
 
 WooCommerce performance engineering with measured improvements across rendering, blocking time, layout stability and page weight.
 
+- GTmetrix: **E / 41% / 85% → A / 99% / 98%**
+- GTmetrix LCP: **10.4s → 0.76s**
+- GTmetrix TBT: **346–544ms → 76ms**
 - PageSpeed desktop: **100**
-- GTmetrix LCP: **10.4s → 0.69s**
-- Homepage TBT: **346–544ms → 0ms**
 - Shop CLS: **0.16 → 0.012**
 - Homepage compressed size: **~92 KB → 49 KB**
 
