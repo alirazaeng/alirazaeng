@@ -21,7 +21,7 @@
 
 | Project | Focus | Stable release / proof |
 | --- | --- | --- |
-| [WooCommerce Performance Toolkit](https://github.com/alirazaeng/woocommerce-performance-toolkit) | Core Web Vitals, diagnostics, caching, frontend/database performance | [v1.0.0](https://github.com/alirazaeng/woocommerce-performance-toolkit/releases/tag/v1.0.0) · Ali Raza Solutions **E → A**, LCP **7.6s → 1.3s** |
+| [WooCommerce Performance Toolkit](https://github.com/alirazaeng/woocommerce-performance-toolkit) | Core Web Vitals, diagnostics, caching, frontend/database performance | [v1.0.0](https://github.com/alirazaeng/woocommerce-performance-toolkit/releases/tag/v1.0.0) · Ali Raza Solutions **E → A**, LCP **7.6s → 1.3s** · AHF Collection **PageSpeed 100**, LCP **10.4s → 0.69s** |
 | [WordPress GSAP Components](https://github.com/alirazaeng/wordpress-gsap-components) | Reusable GSAP/ScrollTrigger components with accessibility and cleanup patterns | [v1.0.0](https://github.com/alirazaeng/wordpress-gsap-components/releases/tag/v1.0.0) · interactive demo source included |
 | [WooCommerce Customizations](https://github.com/alirazaeng/woocommerce-customizations) | Modular WooCommerce product/cart/checkout/account/order patterns | [v1.0.0](https://github.com/alirazaeng/woocommerce-customizations/releases/tag/v1.0.0) · installable plugin ZIP |
 | [WordPress Technical SEO Toolkit](https://github.com/alirazaeng/wordpress-technical-seo-toolkit) | Robots, canonicals, metadata, structured data, redirects and taxonomies | [v1.0.0](https://github.com/alirazaeng/wordpress-technical-seo-toolkit/releases/tag/v1.0.0) · installable plugin ZIP |
@@ -127,7 +127,7 @@ Production-focused WooCommerce performance patterns, diagnostics and documentati
 **Measured performance proof:**
 
 - **Ali Raza Solutions:** GTmetrix **E → A**, Performance **33% → 92%**, LCP **7.6s → 1.3s**, TBT **543ms → 25ms**
-- **AHF Collection:** GTmetrix **D → B**, Performance **55% → 82%**, LCP **7.9s → 2.0s** — documented WooCommerce improvement with a hostname comparison caveat
+- **AHF Collection:** confirmed PageSpeed desktop **100**, GTmetrix LCP **10.4s → 0.69s**, homepage TBT **346–544ms → 0ms**, shop CLS **0.16 → 0.012**, homepage size **~92 KB → 49 KB**. Final GTmetrix A grade and 95+ mobile remain pending retest.
 
 [View repository →](https://github.com/alirazaeng/woocommerce-performance-toolkit) · [v1.0.0 release →](https://github.com/alirazaeng/woocommerce-performance-toolkit/releases/tag/v1.0.0) · [Ali Raza Solutions case study →](https://github.com/alirazaeng/woocommerce-performance-toolkit/blob/main/case-studies/ali-raza-solutions-performance.md) · [AHF Collection case study →](https://github.com/alirazaeng/woocommerce-performance-toolkit/blob/main/case-studies/ahf-collection-performance.md)
 
