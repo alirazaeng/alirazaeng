@@ -9,6 +9,25 @@
   for businesses and eCommerce brands.
 </p>
 
+<p align="center">
+  <a href="https://engineeraliraza.site">Portfolio</a> ·
+  <a href="https://www.upwork.com/freelancers/engineeraliraza">Upwork</a> ·
+  <a href="https://www.linkedin.com/in/engineer-aliraza/">LinkedIn</a>
+</p>
+
+---
+
+## Open-Source Portfolio
+
+| Project | Focus | Stable release / proof |
+| --- | --- | --- |
+| [WooCommerce Performance Toolkit](https://github.com/alirazaeng/woocommerce-performance-toolkit) | Core Web Vitals, diagnostics, caching, frontend/database performance | [v1.0.0](https://github.com/alirazaeng/woocommerce-performance-toolkit/releases/tag/v1.0.0) · Ali Raza Solutions **E → A**, LCP **7.6s → 1.3s** |
+| [WordPress GSAP Components](https://github.com/alirazaeng/wordpress-gsap-components) | Reusable GSAP/ScrollTrigger components with accessibility and cleanup patterns | [v1.0.0](https://github.com/alirazaeng/wordpress-gsap-components/releases/tag/v1.0.0) · interactive demo source included |
+| [WooCommerce Customizations](https://github.com/alirazaeng/woocommerce-customizations) | Modular WooCommerce product/cart/checkout/account/order patterns | [v1.0.0](https://github.com/alirazaeng/woocommerce-customizations/releases/tag/v1.0.0) · installable plugin ZIP |
+| [WordPress Technical SEO Toolkit](https://github.com/alirazaeng/wordpress-technical-seo-toolkit) | Robots, canonicals, metadata, structured data, redirects and taxonomies | [v1.0.0](https://github.com/alirazaeng/wordpress-technical-seo-toolkit/releases/tag/v1.0.0) · installable plugin ZIP |
+
+All four flagship repositories use automated code-quality checks and protected `main` branches.
+
 ---
 
 ## 👨‍💻 About Me
@@ -110,7 +129,7 @@ Production-focused WooCommerce performance patterns, diagnostics and documentati
 - **Ali Raza Solutions:** GTmetrix **E → A**, Performance **33% → 92%**, LCP **7.6s → 1.3s**, TBT **543ms → 25ms**
 - **AHF Collection:** GTmetrix **D → B**, Performance **55% → 82%**, LCP **7.9s → 2.0s** — documented WooCommerce improvement with a hostname comparison caveat
 
-[View repository →](https://github.com/alirazaeng/woocommerce-performance-toolkit) · [Ali Raza Solutions case study →](https://github.com/alirazaeng/woocommerce-performance-toolkit/blob/main/case-studies/ali-raza-solutions-performance.md) · [AHF Collection case study →](https://github.com/alirazaeng/woocommerce-performance-toolkit/blob/main/case-studies/ahf-collection-performance.md)
+[View repository →](https://github.com/alirazaeng/woocommerce-performance-toolkit) · [v1.0.0 release →](https://github.com/alirazaeng/woocommerce-performance-toolkit/releases/tag/v1.0.0) · [Ali Raza Solutions case study →](https://github.com/alirazaeng/woocommerce-performance-toolkit/blob/main/case-studies/ali-raza-solutions-performance.md) · [AHF Collection case study →](https://github.com/alirazaeng/woocommerce-performance-toolkit/blob/main/case-studies/ahf-collection-performance.md)
 
 ### [WordPress GSAP Components](https://github.com/alirazaeng/wordpress-gsap-components)
 
@@ -132,7 +151,7 @@ Reusable, performance-conscious animation components for modern WordPress fronte
 
 **Stack:** JavaScript · GSAP · ScrollTrigger · WordPress · PHP · CSS · GitHub Actions
 
-[View repository →](https://github.com/alirazaeng/wordpress-gsap-components)
+[View repository →](https://github.com/alirazaeng/wordpress-gsap-components) · [v1.0.0 release →](https://github.com/alirazaeng/wordpress-gsap-components/releases/tag/v1.0.0)
 
 ### [WooCommerce Customizations](https://github.com/alirazaeng/woocommerce-customizations)
 
@@ -154,7 +173,7 @@ Production-oriented WooCommerce customization patterns for products, cart, class
 
 **Stack:** PHP · WordPress · WooCommerce · HPOS · GitHub Actions
 
-[View repository →](https://github.com/alirazaeng/woocommerce-customizations)
+[View repository →](https://github.com/alirazaeng/woocommerce-customizations) · [v1.0.0 release →](https://github.com/alirazaeng/woocommerce-customizations/releases/tag/v1.0.0)
 
 ### [WordPress Technical SEO Toolkit](https://github.com/alirazaeng/wordpress-technical-seo-toolkit)
 
@@ -176,7 +195,7 @@ Production-focused WordPress technical SEO patterns for indexation, canonicals, 
 
 **Stack:** PHP · WordPress · Technical SEO · Structured Data · GitHub Actions
 
-[View repository →](https://github.com/alirazaeng/wordpress-technical-seo-toolkit)
+[View repository →](https://github.com/alirazaeng/wordpress-technical-seo-toolkit) · [v1.0.0 release →](https://github.com/alirazaeng/wordpress-technical-seo-toolkit/releases/tag/v1.0.0)
 
 ---
 
