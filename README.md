@@ -1,12 +1,16 @@
 <h1 align="center">Engineer Ali Raza</h1>
 
 <p align="center">
-  <strong>WordPress & WooCommerce Engineer · Web Performance Specialist · Frontend Developer</strong>
+  <strong>WordPress Developer · WooCommerce Developer · Speed Optimization · Core Web Vitals</strong>
 </p>
 
 <p align="center">
-  I build production WordPress and WooCommerce systems with an emphasis on performance,
-  maintainability, conversion flows, technical SEO, and purposeful frontend motion.
+  I build and optimize production WordPress and WooCommerce systems using PHP, JavaScript,
+  WooCommerce APIs, Checkout Blocks, HPOS, Core Web Vitals diagnostics, and technical SEO.
+</p>
+
+<p align="center">
+  <strong>Specialties:</strong> WooCommerce performance · custom WooCommerce development · Checkout Blocks · HPOS · WordPress performance · technical SEO · GSAP frontends
 </p>
 
 <p align="center">
