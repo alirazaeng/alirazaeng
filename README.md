@@ -37,13 +37,12 @@ All four flagship repositories use automated quality checks, Dependabot maintena
 
 ## Upstream Open-Source Work
 
-**WooCommerce core — [PR #69358: Fix shop page ID redirects when front page differs](https://github.com/woocommerce/woocommerce/pull/69358)**
+| Contribution | Engineering proof | Status |
+| --- | --- | --- |
+| **WooCommerce core — [PR #69358: Fix shop page ID redirects when front page differs](https://github.com/woocommerce/woocommerce/pull/69358)** | Linked to [issue #67772](https://github.com/woocommerce/woocommerce/issues/67772) · focused `WC_Query::pre_get_posts()` guard · regression test for separate static front and Shop pages | **Open** |
+| **WooCommerce core — [PR #69557: Hide Product Filters when no options are available](https://github.com/woocommerce/woocommerce/pull/69557)** | Linked to [issue #69085](https://github.com/woocommerce/woocommerce/issues/69085) · WooCommerce Blocks server rendering · PHPUnit coverage for empty, visible, nested, and active-filter recovery states | **Open** |
 
-- linked to upstream issue [#67772](https://github.com/woocommerce/woocommerce/issues/67772)
-- adds a focused guard in `WC_Query::pre_get_posts()` for Shop page ID requests
-- includes a regression test covering a separate static front page and Shop page
-- automated review reported no actionable comments
-- **status: open upstream PR; not presented as an accepted contribution until WooCommerce merges it**
+Both are active upstream contributions. They are intentionally **not presented as accepted WooCommerce contributions until merged by WooCommerce maintainers**.
 
 ---
 
