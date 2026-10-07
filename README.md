@@ -31,6 +31,18 @@ All four flagship repositories use automated quality checks, Dependabot maintena
 
 ---
 
+## Upstream Open-Source Work
+
+**WooCommerce core — [PR #69358: Fix shop page ID redirects when front page differs](https://github.com/woocommerce/woocommerce/pull/69358)**
+
+- linked to upstream issue [#67772](https://github.com/woocommerce/woocommerce/issues/67772)
+- adds a focused guard in `WC_Query::pre_get_posts()` for Shop page ID requests
+- includes a regression test covering a separate static front page and Shop page
+- automated review reported no actionable comments
+- **status: open upstream PR; not presented as an accepted contribution until WooCommerce merges it**
+
+---
+
 ## Measured Performance Work
 
 ### Ali Raza Solutions
