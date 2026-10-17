@@ -40,7 +40,7 @@ All four flagship repositories use automated quality checks, Dependabot maintena
 | Contribution | Engineering proof | Status |
 | --- | --- | --- |
 | **WooCommerce core — [PR #69358: Fix shop page ID redirects when front page differs](https://github.com/woocommerce/woocommerce/pull/69358)** | Linked to [issue #67772](https://github.com/woocommerce/woocommerce/issues/67772) · focused `WC_Query::pre_get_posts()` guard · regression test for separate static front and Shop pages | **Open** |
-| **WooCommerce core — [PR #69858: Expose empty state on Product Filters wrapper](https://github.com/woocommerce/woocommerce/pull/69858)** | Follow-up to maintainer review on #69557 · scoped Interactivity API server state · preserves custom inner blocks · unit coverage for all-empty, mixed, multi-wrapper and missing-context states | **Open** |
+| **WooCommerce core — [PR #69858: Expose empty state on Product Filters wrapper](https://github.com/woocommerce/woocommerce/pull/69858)** | Follow-up to maintainer review on #69557 · scoped Interactivity API server state · preserves custom inner blocks · wrapper-level unit coverage for all-empty, mixed, multi-wrapper and no-filter states | **Open** |
 
 Both are active upstream contributions. They are intentionally **not presented as accepted WooCommerce contributions until merged by WooCommerce maintainers**.
 
